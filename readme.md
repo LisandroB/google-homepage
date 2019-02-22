@@ -1,0 +1,1 @@
+i mostly used stackoverflow and googling skills for this assignment. the html was completely built by me, part of the fx and animations were taken from SO. it was a huge pain in the ass but i learned a ton thanks to this. from The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css) <3.
